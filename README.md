@@ -6,7 +6,8 @@ For localhost server, Xampp was used (Apache and MySQL).
 Editor used - Visual Studio Code
 Langauage Used - HTML, CSS, PHP, SQL
 
-Import the mychat.sql file in phpadmin. 
+Create a database named mychat. 
+Import the mychat.sql file in mychat database. 
 
 Start Apache and MySql server
 
